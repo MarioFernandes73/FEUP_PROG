@@ -1,0 +1,36 @@
+18
+1 ; Manuel Antonio Guedes ; 1/7/2016 ; 10.03
+
+2 ; Albina Martins ; 2/7/2016 ; 223.00
+
+3 ; Jose Antonio Marques ; 9/7/2016 ; 221.10
+
+4 ; Maria Alice Almeida ; 10/7/2016 ; 120.33
+
+5 ; Vitor Domingos ; 24/10/2015 ; 1.40
+
+6 ; Alexandre Barroso ; 4/4/2016 ; 2.00
+
+7 ; Sergio Salgado ; 20/4/2016 ; 3.00
+
+8 ; Miguel Freire ; 4/1/2016 ; 4.80
+
+9 ; Cristiano Monteiro ; 2/3/2016 ; 5.60
+
+10 ; Daniel Monteiro ; 5/1/2016 ; 6.00
+
+11 ; Daniel Torre ; 25/2/2016 ; 7.00
+
+12 ; Alexandre Figueiredo ; 10/4/2016 ; 8.42
+
+13 ; Joao Figueiredo ; 5/5/2016 ; 9.65
+
+14 ; Filipa Machado ; 9/1/2016 ; 10.00
+
+15 ; Joao Coutinho ; 14/5/2016 ; 9.55
+
+16 ; Joao Pedro ; 21/2/2016 ; 14.80
+
+17 ; Filipe Pinto ; 17/3/2016 ; 32.50
+
+18 ; Alexandra Pereira ; 5/5/2016 ; 60.14
